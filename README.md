@@ -18,10 +18,17 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 ```
+Implementation and execution of car rental application with django framework.
+Project Implemented By:
 
 Name:v.Abisha 
 
 id:au813121104004
 
-college name:Pavendhar bharathidasan college of Engineering and Technology
+college name:8131,Pavendhar bharathidasan college of Engineering and Technology.
+
+Username:Abisha
+
+Password:Abi2805
+
 ![screen](https://github.com/WinterOdin/car-rental-with-Django/blob/master/screenshot/index.png)
