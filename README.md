@@ -19,7 +19,9 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Name:v.Abisha
+Name:v.Abisha 
+
 id:au813121104004
+
 college name:Pavendhar bharathidasan college of Engineering and Technology
 ![screen](https://github.com/WinterOdin/car-rental-with-Django/blob/master/screenshot/index.png)
